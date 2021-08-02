@@ -40,7 +40,6 @@
                     "Corinth Canal photo stop"
                 ],
                 "tourPace" : [ 
-                    "On this guided tour, you will walk for about 2 hours daily across uneven terrain, including paved roads and unpaved trails, with some hills and stairs."
                 ]
             }
         },
@@ -50,115 +49,6 @@
         "discount" : 0.0,
         "availability":30
     }, 
-    
-   
-    {
-        "destinationId" : "D1005",
-        "continent":"Europe",
-        "name" : "London, Paris & Rome",
-        "imageUrl":"/assets/rome.jpg",
-        "details" : {
-            "itinerary" : {
-                "dayWiseDetails":{
-                        "firstDay":"Travel day: Board your overnight flight to London.",
-                        "restDaysSightSeeing":[
-                                                "Trafalgar Square", 
-                                                "Buckingham Palace", 
-                                                "Eurostar train ride", 
-                                                "Place de la Concorde", 
-                                                "Eiffel Tower photo stop", 
-                                                "The Colosseum"
-                                            ],
-                        "lastDay":"Departure:Transfer to the airport for your flight home."
-                },
-                "packageInclusions" : [ 
-                    "9 nights in handpicked hotels", 
-                    "9 breakfasts", 
-                    "3 dinners with beer or wine", 
-                    "3 guided sightseeing tours", 
-                    "Expert tour director & local guides", 
-                    "Private deluxe motor coach"
-                ],
-                "tourHighlights" : [ 
-                    "London",
-                    "Paris",
-                    "Rome",
-                    "Trafalgar Square", 
-                    "Buckingham Palace", 
-                    "Eurostar train ride", 
-                    "Place de la Concorde", 
-                    "Eiffel Tower photo stop", 
-                    "The Colosseum", 
-                    "The Roman Forum"
-                ],
-                "tourPace" : [ 
-                    "On this guided tour, you’ll walk for about 1 hour daily across mostly flat terrain, including paved roads and cobblestone streets, with few hills or stairs."
-                ]
-            }
-        },
-        "noOfNights" : 13.0,
-        "flightCharges":500,
-        "chargesPerPerson" : 2699.0,
-        "discount" : 0.0,
-        "availability":30
-    }, 
-    {
-        "destinationId" : "D1007",
-        "continent":"Australia",
-        "name" : "Australia & New Zealand",
-        "imageUrl":"/assets/aus2.jpg",
-        "details" : {
-            "itinerary" : {
-                "dayWiseDetails":{
-                        "firstDay":"Cross the International Date Line in flight and lose a day.",
-                        "restDaysSightSeeing":[
-                                                "Melbourne", 
-                                                "Uluru", 
-                                                "Great Barrier Reef", 
-                                                "Sydney Opera House", 
-                                                "Glowworm Caves", 
-                                                "Bob’s Peak", 
-                                                "Milford Sound", 
-                                                "Kiwi Wildlife Park"
-                                            ],
-                        "lastDay":"Departure:Transfer to the airport for your flight home."
-                },
-                "packageInclusions" : [ 
-                    "19 nights in handpicked hotels", 
-                    "19 breakfasts", 
-                    "1 lunch", 
-                    "6 dinners with beer or wine", 
-                    "13 guided sightseeing tours", 
-                    "Expert tour director & local guides", 
-                    "Private deluxe motor coach", 
-                    "Flights from Melbourne to Alice Springs, Uluru Region to Great Barrier Reef Region, Great Barrier Reef Region to Sydney, Sydney to Fiordland National Park Region, Queenstown to Rotorua"
-                ],
-                "tourHighlights" : [ 
-                    "Sydney",
-                    "Australia",
-                    "New Zealand",
-                    "Melbourne", 
-                    "Uluru", 
-                    "Great Barrier Reef", 
-                    "Sydney Opera House", 
-                    "Glowworm Caves", 
-                    "Bob’s Peak", 
-                    "Milford Sound", 
-                    "Kiwi Wildlife Park", 
-                    "Kiwi home-hosted dinner", 
-                    "Auckland’s Sky Tower"
-                ],
-                "tourPace" : [ 
-                    "On this guided tour, you’ll walk for about 1 hour daily across mostly flat terrain, including paved roads and gravel paths, with few hills."
-                ]
-            }
-        },
-        "noOfNights" : 22.0,
-        "flightCharges":500,
-        "chargesPerPerson" : 6399.0,
-        "discount" : 0.0,
-        "availability":30
-    },
     {
         "destinationId" : "D1011",
         "continent":"Asia",
@@ -201,7 +91,6 @@
                     "Osaka Castle"
                 ],
                 "tourPace" : [ 
-                    "On this guided tour, you'll walk for about 2.5 hours daily across mostly flat terrain, including paved roads and gravel paths, with few hills. You may need to climb stairs when visiting temples."
                 ]
             }
         },
