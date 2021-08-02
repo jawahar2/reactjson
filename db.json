@@ -250,58 +250,6 @@
         "chargesPerPerson" : 2699.0,
         "discount" : 0.0,
         "availability":30
-    },
-    {
-        "destinationId" : "D1006",
-        "continent":"Australia",
-        "name" : "Grand Tour of Australia",
-        "imageUrl":"/assets/aus1.jpg",
-        "details" : {
-            "about" : "An island, a country, and a continent all in one.Experience the allure of the Land Down Under when you snorkel above the Great Barrier Reef, gaze at Uluru, and explore the Sydney Opera House. From multicultural Melbourne to the vast Outback, Australia is full of surprises for you to discover.",
-            "itinerary" : {
-                "dayWiseDetails":{
-                        "firstDay":"Cross the International Date Line in flight and lose a day.",
-                        "restDaysSightSeeing":[
-                                                "Carlton Gardens", 
-                                                "Alice Springs", 
-                                                "Royal Flying Doctor Service", 
-                                                "Uluru", 
-                                                "Great Barrier Reef", 
-                                                "Bondi Beach"
-                                            ],
-                        "lastDay":"Departure:Transfer to the airport for your flight home."
-                },
-                "packageInclusions" : [ 
-                    "11 nights in handpicked hotels", 
-                    "11 breakfasts", 
-                    "1 lunch", 
-                    "2 dinners with beer or wine", 
-                    "6 guided sightseeing tours", 
-                    "Expert tour director & local guides", 
-                    "Private deluxe motor coach"
-                ],
-                "tourHighlights" : [ 
-                    "Australia",
-                    "Sydney",
-                    "Melbourne",
-                    "Carlton Gardens", 
-                    "Alice Springs", 
-                    "Royal Flying Doctor Service", 
-                    "Uluru", 
-                    "Great Barrier Reef", 
-                    "Bondi Beach", 
-                    "Sydney Opera House"
-                ],
-                "tourPace" : [ 
-                    "On this guided tour, you’ll walk for about 1 hour daily across mostly flat terrain, including paved roads and gravel paths, with few hills."
-                ]
-            }
-        },
-        "noOfNights" : 14.0,
-        "flightCharges":500,
-        "chargesPerPerson" : 4549.0,
-        "discount" : 0.0,
-        "availability":30
     }, 
     {
         "destinationId" : "D1007",
@@ -467,59 +415,7 @@
         "chargesPerPerson" : 3549.0,
         "discount" : 0.0,
         "availability":30
-    }, 
-    {
-        "destinationId" : "D1010",
-        "continent":"Asia",
-        "name" : "Singapore & Malaysia: A Journey through Southeast Asia",
-        "imageUrl":"/assets/singapore.jpg",
-        "details" : {
-            "about" : "Discover the mystique of Singapore and Malaysia.Travel from bustling city streets to pristine shorelines, taking in some of Southeast Asia’s most interesting cultures along the way. Stand in awe of Singapore’s world-class amenities and futuristic innovation before retreating into nature in Borneo, where dense jungles harbor impressive animal life. Round out your trip in cosmopolitan Kuala Lumpur to see how deep-rooted traditions intersect with the present-day.",
-            "itinerary" : {
-                "dayWiseDetails":{
-                        "firstDay":"Travel day: Board your overnight flight to Singapore.",
-                        "restDaysSightSeeing":[
-                                                "Southeast Asia",
-                                                "Thian Hock Keng Temple", 
-                                                "Singapore Botanic Garden", 
-                                                "Bako National Park", 
-                                                "Semenggoh Wildlife Centre", 
-                                                "Satang Island"
-                                            ],
-                        "lastDay":"Departure: Transfer to the airport for your flight home"
-                },
-                "packageInclusions" : [ 
-                    "9 nights in handpicked hotels", 
-                    "9 breakfasts", 
-                    "4 lunch", 
-                    "3 dinners with beer or wine", 
-                    "5 guided sightseeing tours", 
-                    "Expert tour director & local guides", 
-                    "Private deluxe motor coach"
-                ],
-                "tourHighlights" : [ 
-                    "Singapore",
-                    "Malaysia",
-                    "Southeast Asia",
-                    "Thian Hock Keng Temple", 
-                    "Singapore Botanic Garden", 
-                    "Bako National Park", 
-                    "Semenggoh Wildlife Centre", 
-                    "Satang Island", 
-                    "Malacca River cruise", 
-                    "Petronas Towers"
-                ],
-                "tourPace" : [ 
-                    "On this guided tour, you’ll walk for about 2.5 hours daily across moderately uneven terrain, including paved roads and unpaved paths, with some hills and stairs."
-                ]
-            }
-        },
-        "noOfNights" : 9.0,
-        "flightCharges":500,
-        "chargesPerPerson" : 2649.0,
-        "discount" : 0.0,
-        "availability":30
-    }, 
+    },
     {
         "destinationId" : "D1011",
         "continent":"Asia",
