@@ -50,6 +50,155 @@
         "availability":30
     }, 
     {
+        "destinationId" : "D1002",
+        "continent":"Europe",
+        "imageUrl":"/assets/romantic.jpg",
+        "name" : "Romantic Europe: Paris, Venice & Vienna",
+        "details" : {
+            "about" : "Get swept away by the beauty of Europe’s most romantic cities.Journey through the dazzling imperial capitals of France, Italy, Slovenia, and Austria, soaking up each destination’s unique culture along the way. Sip coffee in charming cafes, spend your days exploring the grand boulevards or admiring sparkling canals, and watch each city’s skyline light up every evening.",
+            "itinerary" : {
+                 "dayWiseDetails":{
+                        "firstDay":"Travel day: Board your overnight flight to Paris.",
+                        "restDaysSightSeeing":[
+                                                "Vienna",
+                                                "Eiffel Tower photo stop", 
+                                                "The Grand Canal", 
+                                                "St. Mark’s Square", 
+                                                "Ljubljana’s Prešeren Square", 
+                                                "Graz’s Old Town"
+                                            ],
+                        "lastDay":"Departure:Transfer to the airport for your flight home."
+                },
+                "packageInclusions" : [ 
+                    "10 nights in handpicked hotels", 
+                    "10 breakfasts", 
+                    "4 dinners with beer or wine", 
+                    "4 guided sightseeing tours", 
+                    "Expert tour director & local guides", 
+                    "Private deluxe motor coach"
+                ],
+                "tourHighlights" : [ 
+                    "Paris",
+                    "Venice",
+                    "Vienna",
+                    "Eiffel Tower photo stop", 
+                    "The Grand Canal", 
+                    "St. Mark’s Square", 
+                    "Ljubljana’s Prešeren Square", 
+                    "Graz’s Old Town", 
+                    "Schönbrunn Palace"
+                ],
+                "tourPace" : [ 
+                    "On this guided tour, you’ll walk for about 2.5 hours daily across mostly flat terrain, including paved roads and cobblestone streets, with some hills and stairs."
+                ]
+            }
+        },
+        "noOfNights" : 10.0,
+        "flightCharges":500,
+        "chargesPerPerson" : 2729.0,
+        "discount" : 0.0,
+        "availability":30
+    }, 
+    {
+        "destinationId" : "D1003",
+        "continent":"Europe",
+        "name" : "Jewels of Alpine Europe",
+        "imageUrl":"/assets/europe.jpg",
+        "details" : {
+            "about" : "Experience rich culture against a backdrop of soaring Alpine peaks.Journey from Switzerland’s mountain-lined Lake Lucerne to France’s inspiring Lake Annecy. Take in the picturesque Chamonix Valley and stroll along Italy’s Lake Como. Then, cross Liechtenstein and hit the winter wonderland of Innsbruck before heading to Munich, the lively capital of Bavaria.",
+            "itinerary" : {
+                     "dayWiseDetails":{
+                        "firstDay":"Travel day: Board your overnight flight to Zurich.",
+                        "restDaysSightSeeing":[
+                                                "Chapel Bridge", 
+                                                "Lake Annecy boat ride", 
+                                                "Chamonix, Mont Blanc", 
+                                                "Lake Como", 
+                                                "Bernina Express train ride", 
+                                                "Liechtenstein"
+                                            ],
+                        "lastDay":"Departure:Transfer to the airport for your flight home."
+                },
+                "packageInclusions" : [ 
+                    "11 nights in handpicked hotels", 
+                    "11 breakfasts", 
+                    "5 dinners with beer or wine", 
+                    "8 guided sightseeing tours", 
+                    "Expert tour director & local guides", 
+                    "Private deluxe motor coach"
+                ],
+                "tourHighlights" : [ 
+                    "Alpine",
+                    "Chapel Bridge", 
+                    "Lake Annecy boat ride", 
+                    "Chamonix, Mont Blanc", 
+                    "Lake Como", 
+                    "Bernina Express train ride", 
+                    "Liechtenstein", 
+                    "Nymphenburg Palace", 
+                    "The Glockenspiel"
+                ],
+                "tourPace" : [ 
+                    "On this guided tour, you’ll walk for about 1 hour daily across moderately uneven terrain, including paved roads and cobblestone streets, with few hills or stairs."
+                ]
+            }
+        },
+        "noOfNights" : 11.0,
+        "flightCharges":500,
+        "chargesPerPerson" : 2799.0,
+        "discount" : 0.0,
+        "availability":30
+    }, 
+    {
+        "destinationId" : "D1004",
+        "continent":"Europe",
+        "name" : "Highlights of Eastern Europe",
+        "imageUrl":"/assets/easteurope.jpg",
+        "details" : {
+            "about" : "Experience Eastern Europe in all its complexity. Imperial palaces, World War II sites, vibrant cafes—you can find it all in Eastern Europe. Journey along the Danube from the two-sided city of Budapest to Vienna, unrivaled for its beauty and majesty. Then, visit the castles and cathedrals of Prague and explore medieval Kraków before ending in modern Warsaw.",
+            "itinerary" : {
+                "dayWiseDetails":{
+                        "firstDay":"Travel day: Board your overnight flight to Budapest.",
+                        "restDaysSightSeeing":[
+                                                "Hungarian Parliament Building", 
+                                                "Szentendre", 
+                                                "Schönbrunn Palace", 
+                                                "Ringstrasse, Mikulov", 
+                                                "Prague Castle", 
+                                                "Wawel Cathedral"
+                                            ],
+                        "lastDay":"Departure:Transfer to the airport for your flight home."
+                },
+                "packageInclusions" : [ 
+                    "13 nights in handpicked hotels", 
+                    "13 breakfasts", 
+                    "5 dinners with beer or wine", 
+                    "6 guided sightseeing tours", 
+                    "Expert tour director & local guides", 
+                    "Private deluxe motor coach"
+                ],
+                "tourHighlights" : [ 
+                    "Matthias Church", 
+                    "Hungarian Parliament Building", 
+                    "Szentendre", 
+                    "Schönbrunn Palace", 
+                    "Ringstrasse, Mikulov", 
+                    "Prague Castle", 
+                    "Wawel Cathedral", 
+                    "Palace of Culture and Science"
+                ],
+                "tourPace" : [ 
+                    "On this guided tour, you'll walk for about 2.5 hours daily across mostly flat terrain, including paved roads and cobblestone streets, with few hills or stairs."
+                ]
+            }
+        },
+        "noOfNights" : 13.0,
+        "flightCharges":500,
+        "chargesPerPerson" : 2699.0,
+        "discount" : 0.0,
+        "availability":30
+    },
+    {
         "destinationId" : "D1011",
         "continent":"Asia",
         "name" : "Highlights of Japan: Tokyo to Kyoto",
