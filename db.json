@@ -6,7 +6,6 @@
         "imageUrl":"/assets/geece.jpg",
         "name" : "A Week in Greece: Athens, Mykonos & Santorini",
         "details" : {
-            "about" : "Watch the setting sun from the hilltops of Greece’s most famous islands.Experience ancient history and open-air museums in the capital of Athens. Then, the quintessential, beautiful Greek islands you’ve been dreaming of come to life on the isles of Mykonos and Santorini.",
             "itinerary" : {
                 "dayWiseDetails":{
                         "firstDay":"Travel day: Board your overnight flight to Athens.",
@@ -59,7 +58,6 @@
         "name" : "London, Paris & Rome",
         "imageUrl":"/assets/rome.jpg",
         "details" : {
-            "about" : "Delve deep into the history and culture of three inspiring, influential cities. Perhaps no cities have influenced the world more over the last 2,000 years than London, Paris, and Rome. On this guided tour, iconic sights like Big Ben, the Eiffel Tower, and the Colosseum are just the beginning of what you'll see. Take it all in as you embark on this sweeping trip through England, France, and Italy.",
             "itinerary" : {
                 "dayWiseDetails":{
                         "firstDay":"Travel day: Board your overnight flight to London.",
@@ -110,7 +108,6 @@
         "name" : "Australia & New Zealand",
         "imageUrl":"/assets/aus2.jpg",
         "details" : {
-            "about" : "Australia and New Zealand—a world away. From Australia's Great Barrier Reef and the rugged Outback to New Zealand's sheep-dotted plains and cliff-lined fjords, the South Pacific features a lineup of dramatic landscapes. In-between outdoor adventures, you’ll discover sophisticated, multicultural cities and an irresistible, carpe diem spirit on this tour.",
             "itinerary" : {
                 "dayWiseDetails":{
                         "firstDay":"Cross the International Date Line in flight and lose a day.",
@@ -168,7 +165,6 @@
         "name" : "Highlights of Japan: Tokyo to Kyoto",
         "imageUrl":"/assets/tokyo.jpg",
         "details" : {
-            "about" : "Discover how centuries-old traditions coexist with cutting-edge culture.The traditional Japanese tea ceremony is the embodiment of Japanese hospitality, representing harmony, respect, purity, and tranquility. You’ll experience this Zen aesthetic every day of your Japanese tour—and not only while drinking tea. Uncover ancient temples alongside futuristic cityscapes and witness how Japan’s art, architecture, and day-to-day culture continue to reflect its time-honored philosophies.",
             "itinerary" : {
                 "dayWiseDetails":{
                         "firstDay":"Travel day: Board your overnight flight to Tokyo.",
